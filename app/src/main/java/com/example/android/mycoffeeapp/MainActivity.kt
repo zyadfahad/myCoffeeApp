@@ -57,7 +57,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
 
-
+//this is importent
             MyCoffeeAppTheme {
 //                MainPage()
                 BottomBar()
