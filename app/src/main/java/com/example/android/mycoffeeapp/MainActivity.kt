@@ -58,6 +58,8 @@ class MainActivity : ComponentActivity() {
         setContent {
 
 //this is importent
+
+            // this is also importent
             MyCoffeeAppTheme {
 //                MainPage()
                 BottomBar()
